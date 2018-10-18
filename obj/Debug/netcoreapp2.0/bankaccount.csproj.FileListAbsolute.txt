@@ -1,0 +1,10 @@
+/Users/david/Desktop/Coding Dojo/csharp/bankaccount/bin/Debug/netcoreapp2.0/bankaccount.deps.json
+/Users/david/Desktop/Coding Dojo/csharp/bankaccount/bin/Debug/netcoreapp2.0/bankaccount.runtimeconfig.json
+/Users/david/Desktop/Coding Dojo/csharp/bankaccount/bin/Debug/netcoreapp2.0/bankaccount.runtimeconfig.dev.json
+/Users/david/Desktop/Coding Dojo/csharp/bankaccount/bin/Debug/netcoreapp2.0/bankaccount.dll
+/Users/david/Desktop/Coding Dojo/csharp/bankaccount/bin/Debug/netcoreapp2.0/bankaccount.pdb
+/Users/david/Desktop/Coding Dojo/csharp/bankaccount/obj/Debug/netcoreapp2.0/bankaccount.csproj.CoreCompileInputs.cache
+/Users/david/Desktop/Coding Dojo/csharp/bankaccount/obj/Debug/netcoreapp2.0/bankaccount.AssemblyInfoInputs.cache
+/Users/david/Desktop/Coding Dojo/csharp/bankaccount/obj/Debug/netcoreapp2.0/bankaccount.AssemblyInfo.cs
+/Users/david/Desktop/Coding Dojo/csharp/bankaccount/obj/Debug/netcoreapp2.0/bankaccount.dll
+/Users/david/Desktop/Coding Dojo/csharp/bankaccount/obj/Debug/netcoreapp2.0/bankaccount.pdb
